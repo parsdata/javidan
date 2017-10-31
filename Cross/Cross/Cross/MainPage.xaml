@@ -5,7 +5,7 @@
              x:Class="Cross.MainPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome 6"
+            <Label Text="Welcome 20"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>
