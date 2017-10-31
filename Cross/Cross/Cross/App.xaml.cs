@@ -14,6 +14,7 @@ namespace Cross
             InitializeComponent();
 
             MainPage = new Cross.MainPage();
+
         }
 
         protected override void OnStart()
