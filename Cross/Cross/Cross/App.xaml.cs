@@ -13,7 +13,8 @@ namespace Cross
         {
             InitializeComponent();
 
-            MainPage = new Cross.MainPage();
+            //MainPage = new Cross.MainPage();
+            MainPage = new Views.Login();
 
         }
 
