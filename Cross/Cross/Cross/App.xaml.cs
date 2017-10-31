@@ -14,7 +14,7 @@ namespace Cross
             InitializeComponent();
 
             //MainPage = new Cross.MainPage();
-            MainPage = new MainPage();
+            MainPage = new Cross.MainPage();
 
         }
 
