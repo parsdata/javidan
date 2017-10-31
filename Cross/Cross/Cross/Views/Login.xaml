@@ -4,7 +4,7 @@
              x:Class="Cross.Views.Login">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Login 2"
+            <Label Text="Login 3"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>
